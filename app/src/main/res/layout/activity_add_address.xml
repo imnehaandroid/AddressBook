@@ -19,74 +19,61 @@
             android:orientation="vertical">
 
             <EditText
-                android:id="@+id/editText"
+                android:id="@+id/eName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="25dp"
-                android:ems="10"
                 android:inputType="textPersonName"
                 android:padding="15dp"
                 android:text="Name"
                 android:textColor="#9B9B9B" />
 
             <EditText
-                android:id="@+id/editText1"
+                android:id="@+id/eAddress1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="25dp"
-                android:ems="10"
-                android:inputType="textPersonName"
                 android:text="Address Line 1"
                 android:textColor="#9B9B9B" />
 
             <EditText
-                android:id="@+id/editText2"
+                android:id="@+id/eAddress2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="25dp"
-                android:ems="10"
-                android:inputType="textPersonName"
-                android:padding="15dp"
                 android:text="Address Line 2"
                 android:textColor="#9B9B9B" />
 
             <EditText
-                android:id="@+id/editText3"
+                android:id="@+id/eLandmark"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="25dp"
-                android:ems="10"
-                android:inputType="textPersonName"
                 android:text="Landmark"
                 android:textColor="#9B9B9B" />
 
             <EditText
-                android:id="@+id/editText4"
+                android:id="@+id/eCity"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="25dp"
-                android:ems="10"
-                android:inputType="textPersonName"
                 android:text="City"
                 android:textColor="#9B9B9B" />
 
             <EditText
-                android:id="@+id/editText5"
+                android:id="@+id/eState"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="25dp"
-                android:ems="10"
-                android:inputType="textPersonName"
                 android:text="State"
                 android:textColor="#9B9B9B" />
 
             <EditText
-                android:id="@+id/editText6"
+                android:id="@+id/ePincode"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="25dp"
-                android:ems="10"
-                android:inputType="textPersonName"
+                android:inputType="number"
                 android:text="Pincode"
                 android:textColor="#9B9B9B" />
 
@@ -98,7 +85,7 @@
 
 
                 <CheckBox
-                    android:id="@+id/checkbox_meat"
+                    android:id="@+id/checkbox_right"
                     android:layout_width="wrap_content"
                     android:layout_height="19dp"
                     android:layout_marginLeft="20dp"
@@ -113,7 +100,7 @@
             </LinearLayout>
 
             <ImageButton
-                android:id="@+id/imageButton1"
+                android:id="@+id/subImageButton"
                 android:layout_width="150dp"
                 android:layout_height="35dp"
                 android:src="@drawable/ic_arrow"
