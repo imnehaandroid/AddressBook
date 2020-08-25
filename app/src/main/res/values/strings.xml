@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AddressBook</string>
+    <string name="blank_heading">Your Address book is Blank</string>
+    <string name="blank_sub_heading">Kindly add shipping / billing\n address and enjoy faster\n checkout</string>
+    <string name="menu_edit_address">Edit</string>
+    <string name="menu_delete_address">Delete</string>
+    <string name="menu_refresh">Refresh</string>
+
 </resources>
