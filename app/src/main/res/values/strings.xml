@@ -5,5 +5,15 @@
     <string name="menu_edit_address">Edit</string>
     <string name="menu_delete_address">Delete</string>
     <string name="menu_refresh">Refresh</string>
+    <string name="label_name">Name</string>
+    <string name="label_address_line_1">Address Line 1</string>
+    <string name="label_address_line_2">Address Line 2</string>
+    <string name="label_landmark">Landmark</string>
+    <string name="label_city">City</string>
+    <string name="label_state">State</string>
+    <string name="label_pincode">Pincode</string>
+    <string name="text_default_address_cb">Make this my default address</string>
+    <string name="content_description_add_fab">Submit</string>
+
 
 </resources>
